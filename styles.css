@@ -2,3 +2,4 @@ body{
  background: blue;
  color: white;
 }
+h1{text-transform: capitalize;}
